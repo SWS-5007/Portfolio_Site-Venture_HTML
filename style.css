@@ -1594,11 +1594,13 @@ hr.invis1 {
 	border: none;
 	border-radius: 0px;
 	border-radius: 100px 100px 0px 100px;
+  margin: 0 10px;
 }
 
 
 .gallery-single{
-	margin: 30px 15px;;
+	margin: 30px 15px;
+  margin-bottom: 10px !important;
 }
 
 .gallery-single {
@@ -1635,6 +1637,15 @@ hr.invis1 {
 .gallery-list .gallery-single:hover .img-overlay .hoverbutton{
 	opacity: 1;
 	top: 50%;
+}
+
+.image-title {
+  text-align: center;
+}
+
+.image-title a {
+  color: #28a9e2;
+  font-weight: bold;
 }
 
 

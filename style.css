@@ -1364,6 +1364,11 @@ xclip
     margin-bottom: 20px;
 }
 
+.message-box .github-pro {
+  color: #6610f2;
+  font-weight: 600;
+}
+
 .message-box .lead {
     padding-top: 10px;
 	font-size: 16px;

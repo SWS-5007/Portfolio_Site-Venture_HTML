@@ -188,5 +188,8 @@
 	.footer-distributed .footer-left{
 		text-align: center;
 	}
+	.footer-distributed img {
+		width: 120px;
+	}
 	
 }
